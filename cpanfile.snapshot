@@ -1,0 +1,9 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Barcode-ZBar-0.04
+    pathname: S/SP/SPADIX/Barcode-ZBar-0.04.tar.gz
+    provides:
+      Barcode::ZBar 0.04
+      Barcode::ZBar::Error 0.04
+    requirements:
+      ExtUtils::MakeMaker 0
